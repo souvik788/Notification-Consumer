@@ -1,0 +1,6 @@
+com/email/EmailConsumer/model/Message.java
+ com.email.EmailConsumer.model.Message
+com/email/EmailConsumer/service/EmailNotifierHandler.java
+ com.email.EmailConsumer.service.EmailNotifierHandler
+com/email/EmailConsumer/EmailConsumerApplication.java
+ com.email.EmailConsumer.EmailConsumerApplication
